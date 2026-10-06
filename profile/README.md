@@ -1,34 +1,48 @@
 # SandBase Lab
 
+### Connect your agents to the real world.
+
 **Open-source agent experiments, from prototype to production.**
 
-Build agents that connect to the real world with models, APIs, and sandboxes. Run the examples, adapt them to your needs, and take them to production.
+Combine models, APIs, and sandboxes to build agents that deliver real results. Explore an experiment, reproduce it, adapt it to your business, and prepare it for production.
 
-**连接真实世界的开源 Agent 实验场。** 组合模型、API 与 Sandbox，快速体验和复现，并基于这些项目构建生产应用。
+**连接真实世界的开源 Agent 实验场。** 快速做出效果，直接体验与复现，再基于独立开源项目构建生产应用。
 
-## Explore, reproduce, build
+[Start here](https://github.com/sandbase-lab/lab-guide) · [中文指南](https://github.com/sandbase-lab/lab-guide/blob/main/README.zh-CN.md) · [Propose a lab](https://github.com/sandbase-lab/lab-guide/issues/new?template=lab-proposal.md) · [SandBase](https://www.sandbase.ai/)
 
-Every lab is an independent project with its own source code, setup instructions, example inputs, and deployment guidance.
+## From experiment to production
 
-1. See the result and understand the use case.
-2. Run the project with a documented example.
-3. Fork it and connect your own data and tools.
-4. Evaluate reliability, cost, and latency before deployment.
+| Explore | Reproduce | Adapt | Operate |
+| --- | --- | --- | --- |
+| See a real result and understand the task. | Run documented examples with your own configuration. | Fork an independent project and connect your data and tools. | Evaluate quality, cost, and reliability; deploy with monitoring and recovery. |
 
-## Project stages
+Each agent application lives in its own repository, with its own dependencies, releases, license, evaluations, and deployment instructions.
 
-| Stage | What to expect |
+## Start building
+
+| Resource | What you will find |
 | --- | --- |
-| Experimental | A reproducible experiment with known limitations. |
-| Preview | A usable prototype with evaluation examples and deployment instructions. |
-| Production-ready | Evidence of reliability within a documented operating scope, with monitoring and recovery guidance. |
+| [Lab Guide](https://github.com/sandbase-lab/lab-guide) | Project directory, getting started, and contribution paths. |
+| [Project standard](https://github.com/sandbase-lab/lab-guide/blob/main/docs/project-standard.md) | Requirements for reproducible experiments and maturity stages. |
+| [Project README template](https://github.com/sandbase-lab/lab-guide/blob/main/docs/project-readme-template.md) | A consistent starting point for independent projects. |
+| [Production checklist](https://github.com/sandbase-lab/lab-guide/blob/main/docs/production-checklist.md) | Evaluation, budgets, external actions, deployment, and recovery. |
 
-Each repository states its stage and limitations. Production readiness depends on your workload and environment.
+We are launching the collection. The guide is available now; runnable agent projects will be listed after validation. Proposed projects are not published demos.
 
-## Open source
+## Know what you are running
 
-Project licenses are documented in each repository. Hosted SandBase services and third-party APIs may require accounts and incur usage charges. Projects should provide fixtures or a mock mode for exploring the workflow without paid calls.
+- **Experimental:** a reproducible experiment with documented limitations.
+- **Preview:** a usable prototype with evaluation cases and deployment instructions.
+- **Production-ready:** validated within a stated operating scope, with monitoring and recovery guidance.
+
+Every project declares its stage and provides supporting evidence. A successful demo alone does not establish production readiness.
+
+## Build with us
+
+Propose a real-world use case, contribute a reproducible project, report a failure, or share production lessons. You can contribute through issues and pull requests without joining the organization.
+
+Read our [contribution guide](https://github.com/sandbase-lab/lab-guide/blob/main/CONTRIBUTING.md). Please report security issues privately using the affected repository's Security tab when available; see our [security policy](https://github.com/sandbase-lab/.github/blob/main/SECURITY.md).
+
+Project code is open source under each repository's license. Hosted SandBase services and third-party APIs have separate access requirements and usage charges. Examples should offer fixtures or a mock mode for exploration without paid calls.
 
 Initiated and maintained by [SandBase](https://www.sandbase.ai/).
-
-Start with the [Lab Guide](https://github.com/sandbase-lab/lab-guide) for project standards, contribution guidance, and the upcoming project directory.
