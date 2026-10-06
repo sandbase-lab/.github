@@ -45,4 +45,18 @@ Read our [contribution guide](https://github.com/sandbase-lab/lab-guide/blob/mai
 
 Project code is open source under each repository's license. Hosted SandBase services and third-party APIs have separate access requirements and usage charges. Examples should offer fixtures or a mock mode for exploration without paid calls.
 
+## SandBase links
+
+| Resource | Link |
+| --- | --- |
+| Website | [sandbase.ai](https://www.sandbase.ai/) |
+| Documentation | [Docs](https://www.sandbase.ai/docs/) |
+| Models | [Explore models](https://www.sandbase.ai/models) |
+| APIs | [Explore APIs](https://www.sandbase.ai/apis) |
+| Sandbox | [Sandbox](https://www.sandbase.ai/landing/sandbox) |
+| Official GitHub | [sandbaseai](https://github.com/sandbaseai) |
+| X | [@SandbaseAI](https://x.com/SandbaseAI) |
+| Discord | [Join the community](https://discord.com/invite/4hXv2f5Q9f) |
+| Service status | [status.sandbase.ai](https://status.sandbase.ai/) |
+
 Initiated and maintained by [SandBase](https://www.sandbase.ai/).
