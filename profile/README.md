@@ -6,9 +6,8 @@
 
 Combine models, APIs, and sandboxes to build agents that deliver real results. Explore an experiment, reproduce it, adapt it to your business, and prepare it for production.
 
-**连接真实世界的开源 Agent 实验场。** 快速做出效果，直接体验与复现，再基于独立开源项目构建生产应用。
 
-[Start here](https://github.com/sandbase-lab/lab-guide) · [中文指南](https://github.com/sandbase-lab/lab-guide/blob/main/README.zh-CN.md) · [Propose a lab](https://github.com/sandbase-lab/lab-guide/issues/new?template=lab-proposal.md) · [SandBase](https://www.sandbase.ai/)
+[Start here](https://github.com/sandbase-lab/lab-guide) · [Propose a lab](https://github.com/sandbase-lab/lab-guide/issues/new?template=lab-proposal.md) · [SandBase](https://www.sandbase.ai/)
 
 ## From experiment to production
 
