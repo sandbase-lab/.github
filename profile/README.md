@@ -28,6 +28,12 @@ Each agent application lives in its own repository, with its own dependencies, r
 
 We are launching the collection. The guide is available now; runnable agent projects will be listed after validation. Proposed projects are not published demos.
 
+## Collections
+
+| Collection | What it is |
+| --- | --- |
+| [Awesome Gemini 4 Argon](https://github.com/sandbase-lab/awesome-gemini4-argon) | Videos made with Google Gemini 4 Argon (Three.js, WebGL, SVG, games), with creator prompts, a prompt guide, a tutorial and a model comparison. Synced daily from [SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-argon). |
+
 ## Know what you are running
 
 - **Experimental:** a reproducible experiment with documented limitations.
